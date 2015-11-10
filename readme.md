@@ -1,7 +1,7 @@
 #docker-transmissionmosquitto
 
 ##purpose
-Make my synology nas send messages to me through mqtt
+Transmission send messages on completion of download to me through mqtt
 
 ##todo
 making more environmental vars and find out how to update the default config
